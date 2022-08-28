@@ -54,7 +54,9 @@ header{
     justify-content:space-between;
 }
 
-#top-lclum{   
+#top-lclum{ 
+    margin-left: 20px;
+    margin-top: 15px;
     color: rgba(245, 245, 245, 0.185);
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 18px;
